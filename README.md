@@ -1,0 +1,3 @@
+# index.html
+This is my first repository for practice
+And in this there is a home page of an coffee website name GCOT...
